@@ -1,0 +1,7 @@
+export const SET_USER_DATA ="SET_USER_DATA";
+export const SET_DASHBOARD_DATA ="SET_DASHBOARD_DATA";
+
+
+
+
+
